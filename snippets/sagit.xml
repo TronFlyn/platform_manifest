@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+
+  <remote  name="tr"
+           fetch="https://github.com/TronFlyn" />
+
   <project name="TronFlyn/device_xiaomi_sagit" path="device/xiaomi/sagit" remote="github" revision="pie" />
   <project name="TronFlyn/device_xiaomi_msm8998-common" path="device/xiaomi/msm8998-common" remote="github" revision="rr" />
   <project name="TronFlyn/android_kernel_xiaomi_msm8998" path="kernel/xiaomi/msm8998" remote="github" revision="pie-7.4" />
