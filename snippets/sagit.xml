@@ -11,4 +11,5 @@
   <project name="TronFlyn/vendor_xiaomi" path="vendor/xiaomi" remote="github" revision="lineage-16.0" />
   <project name="TronFlyn/MiuiCamera" path="vendor/MiuiCamera" remote="github" revision="master" />
   <project name="TronFlyn/android_frameworks_base" path="frameworks/base" remote="github" revision="pie"/>
+  <project name="TronFlyn/frameworks_opt_net_ims" path="platform/frameworks/opt/net/ims" remote="github" revision="pie"/>
 </manifest>
